@@ -14,13 +14,14 @@ Before posting, make sure that your request:
 - is specific
 - is actionable
 - includes a timeframe, for example:
-  - asap / as soon as possible (we'll try to respond right away)
+  - asap / as soon as possible, but not urgent
   - tomorrow 7pm UTC
   - some time this week
   - by first week of january
   - soon
+- says "urgent" loud and clear, if it's essential that your request meets the timeframe :)
 
-Please say "urgent" loud and clear, if it's essential that your request meets the timeframe :)
+For recurring tasks, please open a new issue each time.
 
 Please also include all the information and tasks neccessary to complete the request.
 
